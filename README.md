@@ -6,7 +6,7 @@ This project is a ticket booking system that allows users to reserve, view, and 
 ---
 
 ## Features
-- Book tickets with automatic ID assignment
+- Book tickets 
 - Cancel bookings
 - View all current bookings
 - Priority queue handling (VIP and Regular)
@@ -21,7 +21,7 @@ This project is a ticket booking system that allows users to reserve, view, and 
 - April 10 – April 16: Developed queue handling and priority system  
 - April 17 – April 23: Added cancel booking and seat-checking features  
 - April 24 – April 30: Improved logic, fixed bugs, and refined system flow  
-- May 1 – Present: Final testing  
+- May 1 – May 4: Final testing  
 
 ---
 
